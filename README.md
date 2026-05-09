@@ -115,20 +115,6 @@ Desktop table + mobile card view
 
 ---
 
-## 📊 Statistics
-
-| Metric | Value |
-|--------|-------|
-| **Files Created** | 20+ |
-| **Lines of Code** | 1500+ |
-| **TypeScript Files** | 10+ |
-| **React Components** | 4 |
-| **Type Definitions** | 50+ |
-| **Utility Functions** | 20+ |
-| **Documentation Pages** | 8 |
-
----
-
 ## 🎯 Test Cards
 
 | Type | Number | Expiry | CVV |
